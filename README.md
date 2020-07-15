@@ -61,12 +61,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
   $ npm install
 
   # Inicie a aplicação web
-  $ cd web
-  $ npm start
+  $ yarn start
 
   # Inicie a aplicação mobile
-  $ cd mobile
-  $ npm start
+  $ yarn start
 
 ```
 
