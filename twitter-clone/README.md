@@ -1,44 +1,73 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <b>:rocket:Twitter!:rocket:</b> 
+</h1>
 
-## Available Scripts
+<p align="center">
+  <a href="https://rocketseat.com.br">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
+  </a>
+  <a>
+  <img alt="Language" src="https://img.shields.io/badge/language-ReactJS-brightgreen">
+  <img alt="Language" src="https://img.shields.io/badge/language-Typescript-brightgreen">
 
-In the project directory, you can run:
+</p>
 
-### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## :bookmark: Sobre
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Cópia realizada na série UI Clone no canal da RockeatSeat no Youtube.
 
-### `yarn test`
+<a id="documentacao"></a>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :rocket: Tecnologias Utilizadas
 
-### `yarn build`
+O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [TypeScript](https://www.typescriptlang.org/)
+- [ReactJS](https://reactjs.org/)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## :heavy_check_mark: Inteface:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h1 align="center">
+    <img alt="Web" src="./.github/page.png" width="900px">
+</h1>
 
-### `yarn eject`
+<a id="como-usar"></a>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## :fire: Como usar
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- ### **Pré-requisitos**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+  - É **necessário** possuir o **[Node.js](https://nodejs.org/en/)** no mínimo na versão 12.0 instalado na máquina
+  - Também, é **preciso** ter um gerenciador de pacotes seja o **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**.
+  - Por fim, é **essencial** ter o **[Expo](https://expo.io/)** instalado de forma global na máquina
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+1. Faça um clone :
 
-## Learn More
+```sh
+  $ git clone https://github.com/CharlesLB/cloning-pages-react.git
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+2. Para executar:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```
+  # Instale as dependências
+  $ npm install
+
+  # Inicie a aplicação web
+  $ yarn start
+
+```
+
+<a id="como-contribuir"></a>
+
+## :recycle: Como contribuir
+
+- Faça um Fork desse repositório,
+- Crie uma branch com a sua feature: `git checkout -b my-feature`
+- Commit suas mudanças: `git commit -m 'feat: My new feature'`
+- Push a sua branch: `git push origin my-feature`
+
+## :memo: License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
