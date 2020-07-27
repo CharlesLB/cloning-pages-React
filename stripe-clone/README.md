@@ -1,42 +1,72 @@
 <h1 align="center">
-UI Clone - Stripe Menu
+    <b>:rocket:Stripe!:rocket:</b> 
 </h1>
 
-<p align="center">Stripe Menu Clone for study purposes.</p>
-<p align="center">Deployed <a href="https://rocketseat-clone-stripe-menu.netlify.app/">here</a>.</p>
-
 <p align="center">
-  <a href="https://github.com/Rocketseat/youtube-clone-stripe-menu/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/rocketseat/youtube-clone-stripe-menu?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
+  <a href="https://rocketseat.com.br">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
   </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/github/license/rocketseat/youtube-clone-stripe-menu?color=%236633cc&logo=mit" alt="License">
-  </a>
+  <a>
+  <img alt="Language" src="https://img.shields.io/badge/language-ReactJS-brightgreen">
+  <img alt="Language" src="https://img.shields.io/badge/language-Typescript-brightgreen">
+
 </p>
 
-<hr>
 
-## Participants
+## :bookmark: Sobre
 
-[<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/guilhermerodz)
+Cópia realizada na série UI Clone no canal da RockeatSeat no Youtube.
 
-[Guilherme Rodz](https://github.com/guilhermerodz)
+<a id="documentacao"></a>
 
-## Techs
+## :rocket: Tecnologias Utilizadas
 
-- [x] React.js
-- [x] Styled Components
-- [x] Framer Motion
+O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-## Ideas to implement
+- [TypeScript](https://www.typescriptlang.org/)
+- [ReactJS](https://reactjs.org/)
 
-- [ ] Same Stripe left-right animation
+## :heavy_check_mark: Inteface:
 
-## Usage
+<h1 align="center">
+    <img alt="Web" src="./.github/page.png" width="900px">
+</h1>
 
-1. Run `npm install` or `yarn install`.<br />
-2. Run `yarn start` and access `http://localhost:3000`.<br />
+<a id="como-usar"></a>
 
-## Contributing
+## :fire: Como usar
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+- ### **Pré-requisitos**
+
+  - É **necessário** possuir o **[Node.js](https://nodejs.org/en/)** no mínimo na versão 12.0 instalado na máquina
+  - Também, é **preciso** ter um gerenciador de pacotes seja o **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**.
+
+1. Faça um clone :
+
+```sh
+  $ git clone https://github.com/CharlesLB/cloning-pages-react.git
+```
+
+2. Para executar:
+
+```
+  # Instale as dependências
+  $ npm install
+
+  # Inicie a aplicação web
+  $ yarn start
+
+```
+
+<a id="como-contribuir"></a>
+
+## :recycle: Como contribuir
+
+- Faça um Fork desse repositório,
+- Crie uma branch com a sua feature: `git checkout -b my-feature`
+- Commit suas mudanças: `git commit -m 'feat: My new feature'`
+- Push a sua branch: `git push origin my-feature`
+
+## :memo: License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
