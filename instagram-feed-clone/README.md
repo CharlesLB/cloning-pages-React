@@ -26,7 +26,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ## :heavy_check_mark: Inteface:
 
-    <center>![Preview](.github/preview.gif)</center>
+![Preview](.github/preview.gif)
 
 <a id="como-usar"></a>
 
