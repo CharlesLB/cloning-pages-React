@@ -22,14 +22,11 @@ Cópia realizada na série UI Clone no canal da RockeatSeat no Youtube ([Video](
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-- [TypeScript](https://www.typescriptlang.org/)
-- [ReactJS](https://reactjs.org/)
+- React-Native
 
 ## :heavy_check_mark: Inteface:
 
-<h1 align="center">
-    ![Preview](.github/preview.gif)
-</h1>
+    <center>![Preview](.github/preview.gif)</center>
 
 <a id="como-usar"></a>
 
