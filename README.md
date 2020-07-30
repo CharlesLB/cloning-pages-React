@@ -25,6 +25,8 @@ O repositório é um compilado de cópias realizadas na série UI Clone no canal
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - [ReactJS](https://reactjs.org/)
+- [React Native](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org)
 
 <a id="como-usar"></a>
 
