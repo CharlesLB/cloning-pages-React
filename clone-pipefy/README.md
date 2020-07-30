@@ -8,7 +8,6 @@
   </a>
   <a>
   <img alt="Language" src="https://img.shields.io/badge/language-ReactJS-brightgreen">
-  <img alt="Language" src="https://img.shields.io/badge/language-Typescript-brightgreen">
 
 </p>
 
@@ -23,7 +22,6 @@ Cópia realizada na série UI Clone no canal da RockeatSeat no Youtube.
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-- [TypeScript](https://www.typescriptlang.org/)
 - [ReactJS](https://reactjs.org/)
 
 ## :heavy_check_mark: Inteface:
@@ -66,8 +64,3 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - Crie uma branch com a sua feature: `git checkout -b my-feature`
 - Commit suas mudanças: `git commit -m 'feat: My new feature'`
 - Push a sua branch: `git push origin my-feature`
-
-## :memo: License
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
