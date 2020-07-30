@@ -26,12 +26,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [TypeScript](https://www.typescriptlang.org/)
 - [ReactJS](https://reactjs.org/)
 
-## :heavy_check_mark: Inteface:
-
-<h1 align="center">
-    <img alt="Web" src="./.github/page.png" width="900px">
-</h1>
-
 <a id="como-usar"></a>
 
 ## :fire: Como usar
