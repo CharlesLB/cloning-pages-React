@@ -14,7 +14,7 @@
 
 ## :bookmark: Sobre
 
-Cópia realizada na série UI Clone no canal da RockeatSeat no Youtube ([Video](https://www.youtube.com/watch?v=2nXsLpUCO20)).
+Cópia realizada na série UI Clone no canal da RockeatSeat no Youtube ([Video](https://www.youtube.com/watch?v=DDm0M_rZLJo&list=PLCzfMedNhSCosvOe6pJ3lHJSn8a9_Oh9A&index=6)).
 
 <a id="documentacao"></a>
 
