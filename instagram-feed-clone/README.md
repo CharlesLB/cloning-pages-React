@@ -24,6 +24,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - React-Native
 
+## :heavy_check_mark: Inteface:
+
+![Preview](.github/preview.gif)
+
 <a id="como-usar"></a>
 
 ## :fire: Como usar
