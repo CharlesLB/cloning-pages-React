@@ -15,7 +15,7 @@
 
 ## :bookmark: Sobre
 
-Cópia realizada na série UI Clone no canal da RockeatSeat no Youtube.
+Cópia realizada na série [UI Clone](https://www.youtube.com/watch?v=VqP1ECc_j4M) no canal da RockeatSeat no Youtube.
 
 <a id="documentacao"></a>
 
@@ -25,6 +25,12 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [ReactJS](https://reactjs.org/)
+
+<a id=interface></a>
+
+## :computer: Interface
+
+![.github/page.png]
 
 <a id="como-usar"></a>
 
