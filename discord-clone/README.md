@@ -30,7 +30,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ## :computer: Interface
 
-![.github/page.png]
+<h1 align="center">
+    <img alt="Web" src="./.github/page.png" width="900px">
+</h1>
 
 <a id="como-usar"></a>
 
