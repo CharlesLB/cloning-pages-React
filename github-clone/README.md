@@ -9,9 +9,7 @@
   <a>
   <img alt="Language" src="https://img.shields.io/badge/language-ReactJS-brightgreen">
   <img alt="Language" src="https://img.shields.io/badge/language-Typescript-brightgreen">
-
 </p>
-
 
 ## :bookmark: Sobre
 
