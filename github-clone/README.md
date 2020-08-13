@@ -26,6 +26,12 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [TypeScript](https://www.typescriptlang.org/)
 - [ReactJS](https://reactjs.org/)
 
+## :computer: Interface
+
+<h1 align="center">
+    <img alt="Web" src="./.github/page.png" width="900px">
+</h1>
+
 <a id="como-usar"></a>
 
 ## :fire: Como usar
