@@ -1,5 +1,5 @@
 <h1 align="center">
-    <b>:rocket:Mercado Livre!:rocket:</b>
+    <b>:rocket:TypeForm!:rocket:</b>
 </h1>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## :bookmark: Sobre
 
-Cópia realizada na série UI Clone no canal da RockeatSeat no Youtube  [(Video)](https://www.youtube.com/watch?v=APs_xQ2hUOE).
+Cópia realizada na série UI Clone no canal da RockeatSeat no Youtube  [(Video)](https://www.youtube.com/watch?v=O2xM5H7Ooj4&t=1404s).
 
 <a id="documentacao"></a>
 
@@ -25,12 +25,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [ReactJS](https://reactjs.org/)
-
-## :computer: Interface
-
-<h1 align="center">
-    <img alt="Web" src="./.github/page.png" width="900px">
-</h1>
 
 ## :fire: Como usar
 
