@@ -1,12 +1,17 @@
-import React from 'react';
-import './App.css';
+import React from 'react'
+
+import Page from './components/Page'
+
+import { GlobalStyles } from './styles/GlobalStyles'
 
 function App() {
   return (
-    <div className="App">
-      <h1>Hello</h1>
-    </div>
-  );
+    <>
+      <Page />
+
+      <GlobalStyles />
+    </>
+  )
 }
 
-export default App;
+export default App
