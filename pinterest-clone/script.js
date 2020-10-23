@@ -51,6 +51,6 @@ function setupAnimationCycle({ timePerScreen, exitDelay }) {
 }
 
 setupAnimationCycle({
-  timePerScreen: 2000, // ms
-  exitDelay: 200 * 7 // ms
+  timePerScreen: 2000,
+  exitDelay: 200 * 7 
 })
