@@ -1,7 +1,4 @@
 <center><img alt="Google" src="https://logodownload.org/wp-content/uploads/2014/09/google-logo-1.png"> </center>
-<h1 align="center">
-    <b>:rocket:Google!:rocket:</b> 
-</h1>
 
 ## :bookmark: Sobre
 
